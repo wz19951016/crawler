@@ -1,7 +1,5 @@
 const fs = require('fs')
 const path = require('path')
-const superagent = require('superagent')
-const cheerio = require('cheerio')
 const request = require('request')
 
 var new_array = [],num = 1,flag = 0,no_art=0
